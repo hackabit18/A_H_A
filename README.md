@@ -1,7 +1,7 @@
 # A_H_A
 
 # SunChargers
-Smart Street Lighting system using IOT.
+Smart Street Lighting and monitoring system using IOT.
 
 ABSTRUCT::
 
