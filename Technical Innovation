@@ -1,0 +1,11 @@
+#A_H_A
+
+#SunChargers
+
+Technical Innovation for Solving the Problem:
+
+Our technical innovation is saving power, automatically checking the functionality of the street lights and charging cars with solar energy on the roads. Our product packs safety and smartness in one go. With a microprocessor and a GSM shield, it can send the status of the light posts to a main control center.
+Statistics say that majority of the solar panels are facing east and thus after noon, the efficiency of the panel reduces immensely. We will use real time clock module to make a stepper motor slowly turn the solar panels towards the direction of the sun unlike fixed solar panels. The microprocessor will sense the working of each of the light post with the help of a comparator circuit.
+In the cities for security reasons the lights need to be lit at peak intensity. But on highways, during the night there is huge wastage of the solar power if the lights are on continuously.. Using ultrasound and LDR sensors, we can track an oncoming vehicle from a distance and thus light up the LED lamp. When the road is empty, the light dims automatically to almost 40% of its peak value.
+Each micro controller can monitor 5/6 posts which would be interconnected with each other, which DOES NOT require a main connection from the control center.  Each streetlight will have a dedicated battery and the excess charge produced will be stored in another  battery. These batteries of every light-post will be connected in series to deliver enough power to set up a vehicle charging station. Thus charging stations can be set up after every few streetlights, as required. By using LED Display IC and & segment display, we can indicate the power present in the vehicle charger.
+Our innovation differs from the Su-Kam product as it only uses solar energy to light up the street light, where as we can control the light intensity as well as use it to charge the cars. We also implement ecofriendly charging of the cars.
